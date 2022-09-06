@@ -1,0 +1,973 @@
+2573;[(218, 0.8605668)];Cave
+8136;[(218, 0.25493798)];Karst
+14467;[(218, 0.3060761)];Stalactite
+31020;[(218, 0.35284886)];Pont d'Arc
+31651;[(218, 0.2500208)];Passage
+47548;[(218, 0.30454567)];Tunnel Creek National Park
+86364;[(218, 0.28837812)];Speleology
+99679;[(218, 0.30684572)];Sinkhole
+111903;[(218, 0.25377458)];Stalagmite
+118986;[(218, 0.6267091)];List of caves
+129324;[(218, 0.4028187)];Massif
+130890;[(218, 0.28869992)];Crystal Cavern
+143648;[(218, 0.2891887)];Blanchard Springs Caverns
+143695;[(218, 0.59643775)];List of caves in Australia
+170290;[(218, 0.2769313)];Kartchner Caverns State Park
+239808;[(218, 0.3304372)];Lava tube
+253072;[(218, 0.33014068)];Inner Space Cavern
+263740;[(218, 0.5847787)];Vyalova cave
+278343;[(218, 0.2599113)];List of caves in the United Kingdom
+286290;[(218, 0.4122763)];Velebit caves
+287425;[(218, 0.25849363)];Krubera Cave
+293282;[(218, 0.28870624)];Jewel Cave National Monument
+302139;[(218, 0.28005582)];Lechuguilla Cave
+302675;[(218, 0.40402615)];List of lakes of France
+312611;[(218, 0.25115666)];Cave (disambiguation)
+322259;[(218, 0.31664547)];Speedwell Cavern
+332760;[(218, 0.6806507)];List of caves in New South Wales
+334830;[(218, 0.3194456)];Ogof Draenen
+341248;[(218, 0.48928854)];List of caves in New Zealand
+342619;[(218, 0.46053287)];Bulmer Cavern
+342624;[(218, 0.3193889)];Nettlebed Cave
+356767;[(218, 0.3037043)];Expanse
+363239;[(218, 0.28004453)];Gruta Rei do Mato
+364912;[(218, 0.27711356)];Ogof Craig a Ffynnon
+372146;[(218, 0.43833017)];Abrakurrie Cave
+373603;[(218, 0.30902883)];Clipperton
+377028;[(218, 0.5361185)];List of caves in Mexico
+382370;[(218, 0.35721385)];Kazumura Cave
+392819;[(218, 0.3942464)];Atea Cave
+401114;[(218, 0.42585894)];List of caves in Turkey
+405145;[(218, 0.5318166)];Woodville Karst Plain
+413707;[(218, 0.25697872)];Meramec Caverns
+418264;[(218, 0.2560461)];Cave digging
+437616;[(218, 0.5456055)];List of caves in the United States
+454749;[(218, 0.2869344)];Lockport Cave
+458871;[(218, 0.3136617)];Smoo Cave
+461272;[(218, 0.27850872)];Cosmic Cavern
+495510;[(218, 0.3167027)];Carbonate rock
+496184;[(218, 0.25349134)];Cave Research Foundation
+496977;[(218, 0.45260823)];Cueva de los Verdes
+499912;[(218, 0.2809221)];Moravian Karst
+500503;[(218, 0.34471515)];Bluespring Caverns
+503044;[(218, 0.27759224)];Songam Cavern
+510133;[(218, 0.33754876)];Harrison's Cave
+520546;[(218, 0.27953067)];Colossal Cavern
+531273;[(218, 0.26936617)];Crackpot, North Yorkshire
+537572;[(218, 0.4146172)];List of caves in Slovenia
+537604;[(218, 0.4049263)];Cross Cave
+540186;[(218, 0.28847763)];Eisriesenwelt
+541882;[(218, 0.38285345)];List of caves in Arkansas
+543199;[(218, 0.2765077)];Sof Omar Caves
+548198;[(218, 0.3066586)];Caverns of Sonora
+558852;[(218, 0.36186653)];Kuna Caves
+562956;[(218, 0.27149576)];Ali-Sadr Cave
+576872;[(218, 0.25445628)];Bagh Caves
+576903;[(218, 0.35382688)];Volp
+585588;[(218, 0.27841368)];Sarawak Chamber
+592818;[(218, 0.4256437)];Show cave
+596601;[(218, 0.50963163)];Fairy Cave
+602422;[(218, 0.3314428)];Limestone (disambiguation)
+605879;[(218, 0.4781324)];Gouffre Jean-Bernard
+622760;[(218, 0.4142092)];Anna Cave
+622786;[(218, 0.35587496)];István Cave
+635146;[(218, 0.33263156)];California Caverns
+641606;[(218, 0.28474307)];Anthraconite
+646961;[(218, 0.2541645)];Grotta Gigante
+647799;[(218, 0.3510038)];Illinois Caverns State Natural Area
+661711;[(218, 0.30284148)];Smoke Hole Caverns
+669211;[(218, 0.33547604)];Matienzo
+692276;[(218, 0.2942134)];Bauges
+706300;[(218, 0.33595422)];Zane Shawnee Caverns
+706557;[(218, 0.2679866)];Southeastern Cave Conservancy Inc.
+707078;[(218, 0.2994493)];Xerri's Grotto
+707079;[(218, 0.38251144)];Ninu's Cave
+710313;[(218, 0.28165886)];Crystal Cave, Bermuda
+722887;[(218, 0.30387312)];Ayvaini Cave
+726214;[(218, 0.27783993)];Crystal Cave
+727973;[(218, 0.38112804)];Optymistychna Cave
+757225;[(218, 0.31079262)];Ohio Caverns
+759915;[(218, 0.29359657)];Klinga mina klockor
+766283;[(218, 0.28027734)];Cosquer Cave
+773149;[(218, 0.4285838)];Tham Lot cave
+776745;[(218, 0.25078693)];Borra Caves
+783511;[(218, 0.2967893)];Wellington Caves
+785036;[(218, 0.3362399)];Onmeetbarediepgat
+786081;[(218, 0.2677693)];Cango Caves
+787322;[(218, 0.2733464)];Cumberland Caverns
+790230;[(218, 0.27992696)];Bears' Cave
+802415;[(218, 0.25152838)];Frostwork
+802453;[(218, 0.2866076)];Boxwork
+816256;[(218, 0.33760294)];Caverna dos Ecos
+833823;[(218, 0.27786833)];Cueva del Fantasma
+834233;[(218, 0.36764425)];Bistra (mountain)
+834993;[(218, 0.3622327)];Actun Box Ch'iich'
+835013;[(218, 0.28795978)];Sima Pumacocha
+835022;[(218, 0.34276956)];Qaqa Mach'ay
+835112;[(218, 0.26188955)];Raggejavreraige
+841812;[(218, 0.25790742)];Castleguard Cave
+844176;[(218, 0.39723217)];List of caves in Slovakia
+846305;[(218, 0.3228218)];Vilenica Cave
+847003;[(218, 0.28074)];Stravomyti
+850675;[(218, 0.32504228)];Leon Sinks Geological Area
+854309;[(218, 0.25503942)];Mottled triplefin
+858095;[(218, 0.28375247)];Wallace's Cave
+858587;[(218, 0.2561706)];Amboni Caves
+901684;[(218, 0.4242732)];Sistema Dos Ojos
+901689;[(218, 0.3786309)];Sistema Nohoch Nah Chich
+902354;[(218, 0.29693043)];Sistema Ox Bel Ha
+903622;[(218, 0.25907168)];Gunung Buda National Park
+929213;[(218, 0.31181124)];Arabika Massif
+929410;[(218, 0.30312765)];Ledenika
+931843;[(218, 0.43195054)];The Pinnacles
+950374;[(218, 0.2696177)];Ogof Nadolig
+954085;[(218, 0.3069603)];Abercrombie Caves
+954090;[(218, 0.29306874)];Yarrangobilly Caves
+959039;[(218, 0.50684816)];List of caves in Malaysia
+963340;[(218, 0.4212696)];Dersios sinkhole
+970092;[(218, 0.37665018)];Moondyne Cave
+980189;[(218, 0.26327303)];Api Chamber
+985155;[(218, 0.62372744)];List of caves in France
+1000118;[(218, 0.3117703)];Tempurung Cave
+1002407;[(218, 0.4386395)];Caves of King Cintolo
+1008752;[(218, 0.366949)];Glacier cave
+1008777;[(218, 0.44950733)];Paradise Ice Caves
+1020593;[(218, 0.36153522)];Batatotalena Cave
+1035827;[(218, 0.2920976)];Porth yr Ogof
+1036839;[(218, 0.35259134)];Banwell Ochre Caves
+1036861;[(218, 0.26421207)];Banwell Caves
+1037760;[(218, 0.41354734)];Meramec (series)
+1039693;[(218, 0.2990597)];Hawkesbury Quarry
+1041153;[(218, 0.3492551)];List of caves in South Africa
+1043841;[(218, 0.4014827)];Marble Cave, Kosovo
+1051161;[(218, 0.35886934)];Priddy Caves
+1060454;[(218, 0.2974308)];Wyandotte Caves
+1073785;[(218, 0.32493186)];Castellana Grotte
+1081646;[(218, 0.2736181)];Twin Caves
+1087745;[(218, 0.29589668)];Thrupe Lane Swallet
+1090839;[(218, 0.26022446)];Sandpit Hole and Bishop's Lot
+1094049;[(218, 0.43937114)];Snezhanka (cave)
+1105725;[(218, 0.3343102)];Ballıca Cave
+1112594;[(218, 0.29102486)];White Scar Caves
+1121264;[(218, 0.45234928)];Scărișoara
+1125590;[(218, 0.3477578)];Wonder Cave (Kromdraai, Gauteng)
+1132835;[(218, 0.26272205)];Bijambare Nature Park
+1140233;[(218, 0.2744426)];Pit cave
+1145785;[(218, 0.33503407)];Scărișoara Cave
+1154338;[(218, 0.3685871)];New Athos Cave
+1177836;[(218, 0.5199401)];Hölloch
+1185419;[(218, 0.25903141)];Egma Sinkhole
+1186314;[(218, 0.2724986)];Postojna Cave
+1201999;[(218, 0.3113489)];Ochtinská Aragonite Cave
+1211826;[(218, 0.33855912)];Propantes
+1212675;[(218, 0.40278408)];Jaskinia Wielka Śnieżna
+1214543;[(218, 0.3283891)];Riverbluff Cave
+1222590;[(218, 0.32456118)];Uhlovitsa
+1246543;[(218, 0.28298926)];Hinagdanan Cave
+1250117;[(218, 0.42080766)];Roodafshan Cave
+1253836;[(218, 0.27100876)];Peștera Vântului
+1256031;[(218, 0.25261799)];Waitomo Glowworm Caves
+1276877;[(218, 0.41790822)];Coral Cave
+1278373;[(218, 0.28747234)];Tham Hua Kalok
+1278410;[(218, 0.3276708)];Dobšiná Ice Cave
+1278424;[(218, 0.4259425)];Demänovská Cave of Liberty
+1278485;[(218, 0.25530654)];Demänovská Ice Cave
+1278527;[(218, 0.33311382)];Driny
+1282227;[(218, 0.28051585)];Blauhöhle
+1282867;[(218, 0.32501528)];Shelta Cave
+1291588;[(218, 0.2542633)];Caves of Barać
+1300508;[(218, 0.32587743)];Old Homestead Cave
+1314035;[(218, 0.27303043)];Grotto-heavens
+1322142;[(218, 0.39208224)];Sea cave
+1327132;[(218, 0.2892891)];Crystal Cave (Wisconsin)
+1335353;[(218, 0.37668094)];List of rock-cut temples in India
+1336645;[(218, 0.3464304)];Caves of the Mendip Hills
+1337636;[(218, 0.25580576)];Cox's Cave
+1338115;[(218, 0.32628897)];Eastwater Cavern
+1338160;[(218, 0.3013326)];GB Cave
+1338200;[(218, 0.2838776)];Goatchurch Cavern
+1338402;[(218, 0.27642006)];St Cuthbert's Swallet
+1340437;[(218, 0.39226407)];Steinbrücken Cave
+1340827;[(218, 0.29502907)];Karaca Cave
+1361934;[(218, 0.2951399)];Zacatón
+1367553;[(218, 0.33611938)];Witches' Cave
+1369239;[(218, 0.2782194)];Longwood Swallet
+1369508;[(218, 0.2721872)];Stoke Lane Slocker
+1369618;[(218, 0.3221101)];Balch Cave
+1369640;[(218, 0.3123681)];Hillier's Cave
+1387238;[(218, 0.29656488)];Roundscale spearfish
+1392931;[(218, 0.3668282)];Gardner's Gut
+1399386;[(218, 0.26241207)];Sidcot Swallet
+1403349;[(218, 0.29860055)];Avshalom Cave
+1416302;[(218, 0.39213276)];Gombasek Cave
+1418162;[(218, 0.30700657)];Jasovská Cave
+1419037;[(218, 0.2873798)];Harmanecká Cave
+1421746;[(218, 0.3909827)];Važecká Cave
+1422323;[(218, 0.3695912)];Mercer Caverns
+1422833;[(218, 0.29576698)];Shawnee Cave
+1424147;[(218, 0.28444648)];Cerros de Incahuasi
+1428263;[(218, 0.27331334)];Indian Caverns
+1429663;[(218, 0.37623698)];List of caves in Western Australia
+1435834;[(218, 0.3437092)];Krem Liat Prah
+1435844;[(218, 0.67846537)];Gunung
+1454185;[(218, 0.2674965)];Pate Hole
+1479060;[(218, 0.3202034)];Monte Bove
+1483864;[(218, 0.3374426)];Speleogenesis
+1495706;[(218, 0.34379035)];Spook Cave
+1501846;[(218, 0.36349458)];Vrtiglavica
+1504402;[(218, 0.29463723)];Ogof Agen Allwedd
+1504410;[(218, 0.30355752)];Ogof y Daren Cilau
+1504781;[(218, 0.2648051)];Abukuma-do
+1510651;[(218, 0.34951335)];Belianska Cave
+1518772;[(218, 0.2747785)];Caves of Nerja
+1536043;[(218, 0.26389048)];Baxian Caves
+1537112;[(218, 0.33549374)];Snail Shell Cave
+1551481;[(218, 0.26535013)];Cooper's Cave
+1558146;[(218, 0.27177432)];Caves of Han-sur-Lesse
+1562019;[(218, 0.27223435)];Limestone rat
+1563325;[(218, 0.41276973)];Blind cave loach
+1563420;[(218, 0.3038593)];Schistura oedipus
+1566402;[(218, 0.28344446)];Grand Caverns
+1566716;[(218, 0.26201332)];Endless Caverns
+1569455;[(218, 0.32977295)];Lost River Caverns
+1572780;[(218, 0.29050234)];Decorah Ice Cave State Preserve
+1579118;[(218, 0.27063027)];Cody Caves
+1580090;[(218, 0.28411302)];Spring Valley Caverns
+1581725;[(218, 0.29938516)];Do-Ashkaft Cave
+1584717;[(218, 0.28013054)];Brown cave salamander
+1585551;[(218, 0.25767362)];Odorrana wuchuanensis
+1586444;[(218, 0.33765873)];Cave research in India
+1592378;[(218, 0.28614312)];Majlis al Jinn
+1608855;[(218, 0.27377626)];Speleoperipatus
+1614510;[(218, 0.3232611)];Fissilicreagris imperialis
+1615281;[(218, 0.5997158)];Procambarus orcinus
+1657239;[(218, 0.41383183)];Víðgelmir
+1663133;[(218, 0.30754942)];Boyden Cavern
+1667259;[(218, 0.3531594)];Ursa Minor (cave)
+1675825;[(218, 0.25938427)];Uamh an Claonaite
+1678182;[(218, 0.27746168)];Ingleborough Cave
+1685841;[(218, 0.26468644)];Caving in New Zealand
+1694372;[(218, 0.2629717)];Rod's Pot
+1704097;[(218, 0.30341938)];Belum Caves
+1704828;[(218, 0.43232945)];List of caves in Spain
+1706278;[(218, 0.27694964)];Subterranea (geography)
+1712550;[(218, 0.32278118)];Dunn's Hole
+1712559;[(218, 0.28082618)];Jackson's Bay Cave
+1712603;[(218, 0.25862712)];Coffee River Cave
+1712615;[(218, 0.25007972)];Gourie Cave
+1713223;[(218, 0.35712522)];Hutchinson's Hole
+1714667;[(218, 0.31227624)];Thatchfield Great Cave
+1715244;[(218, 0.28485835)];Hato Caves
+1716012;[(218, 0.29658985)];Belmont Cave
+1717765;[(218, 0.41791666)];Crag Cave
+1718829;[(218, 0.2601464)];Carambie Cave
+1724677;[(218, 0.306869)];Eagle Cave
+1727131;[(218, 0.25342607)];Cotylelobium burckii
+1729481;[(218, 0.60542506)];Abismo Guy Collet
+1739700;[(218, 0.35017872)];List of caves in Belize
+1744718;[(218, 0.4600071)];Siebenhengste-Hohgant-Höhle
+1744872;[(218, 0.2956257)];Pwll Dwfn
+1744902;[(218, 0.33440387)];List of caves of Poland
+1751739;[(218, 0.2816931)];Crack in the Ground
+1755404;[(218, 0.3532903)];Tamana caves
+1759330;[(218, 0.41098505)];Sistema Sac Actun
+1765278;[(218, 0.30113497)];Giant's Hole
+1768044;[(218, 0.26664114)];Black Rocks (Saint Kitts)
+1797605;[(218, 0.25250146)];Onyx Cave (Arkansas)
+1797609;[(218, 0.25997344)];Onyx Cave
+1830687;[(218, 0.2892213)];Niter Ice Cave
+1831056;[(218, 0.2638313)];Leck Fell
+1831912;[(218, 0.26151824)];Simpson Pot
+1846100;[(218, 0.67024577)];Bone Cave
+1849154;[(218, 0.48880607)];Good Luck Cave
+1850859;[(218, 0.38607436)];Karst window
+1868985;[(218, 0.377506)];Mount Api
+1882992;[(218, 0.26868188)];Debla River
+1884115;[(218, 0.304512)];Pivka (river)
+1889883;[(218, 0.3137412)];Honeycomb Hill Cave
+1897860;[(218, 0.28828645)];Red Lake (Croatia)
+1899571;[(218, 0.25069156)];Great Masson Cavern
+1900839;[(218, 0.41355488)];Crystal Caverns
+1904767;[(218, 0.25948635)];Neffs Cave
+1913901;[(218, 0.32561815)];Wonder Cave (San Marcos, Texas)
+1915101;[(218, 0.25376767)];List of types of limestone
+1926934;[(218, 0.28808588)];Ngilgi Cave
+1942356;[(218, 0.3386728)];Underground lake
+1955032;[(218, 0.44927073)];Moinhos Velhos Cave
+1968464;[(218, 0.31483313)];Caves of Aruba
+1969660;[(218, 0.30572045)];List of troglobites
+1973918;[(218, 0.31246373)];Hwanseon Cave
+2017110;[(218, 0.2607581)];Dechen Cave
+2019561;[(218, 0.25118917)];Bull Thistle Cave Archaeological Site
+2022924;[(218, 0.25465113)];Snowy River Cave
+2026192;[(218, 0.25559828)];Dixie Caverns
+2026981;[(218, 0.3626401)];Taulabé
+2033506;[(218, 0.28017563)];Malpaís (landform)
+2039936;[(218, 0.33199117)];Quadiriki Caves
+2045618;[(218, 0.27927792)];Dard (river)
+2065734;[(218, 0.2686776)];Hand Deeps
+2065797;[(218, 0.3894883)];Hillsea Point Rock
+2067938;[(218, 0.28590265)];Seneca Caverns (Ohio)
+2075377;[(218, 0.3745443)];Lava cave
+2082600;[(218, 0.27584216)];Domingo Vandewalle
+2088578;[(218, 0.28510737)];Mitchell Plain
+2095831;[(218, 0.2702689)];Caves of Aggtelek Karst and Slovak Karst
+2097448;[(218, 0.28439727)];Hell Cave
+2104568;[(218, 0.2599008)];Hohgant
+2105443;[(218, 0.30036762)];Jatashankar
+2133414;[(218, 0.25323114)];Deer Cave
+2135798;[(218, 0.27451345)];List of caves of Maryland
+2143382;[(218, 0.27182293)];Lava River Cave
+2145265;[(218, 0.48255813)];Molnár János Cave
+2145283;[(218, 0.28905463)];Yamashita Cave Man
+2146077;[(218, 0.36572427)];Mud Caves
+2156552;[(218, 0.28225127)];Cadomin Cave
+2158512;[(218, 0.30287573)];Stavelot Massif
+2161187;[(218, 0.2529902)];Valenciennea sexguttata
+2164876;[(218, 0.38708314)];Laboute's wrasse
+2166881;[(218, 0.2713486)];Galerias da Feteira
+2182893;[(218, 0.36443442)];Martin Ridge Cave System
+2207837;[(218, 0.31271508)];Grotta di Ispinigoli
+2220618;[(218, 0.28290883)];Surtshellir
+2223296;[(218, 0.39291838)];Pierre's Pot
+2229344;[(218, 0.27394646)];Nereo Cave
+2233431;[(218, 0.36345586)];Pettyjohn Cave
+2236901;[(218, 0.2524041)];Mont Gerbier de Jonc
+2246389;[(218, 0.25699088)];Crusoe Cave
+2249308;[(218, 0.31756732)];Aurora Cave
+2259370;[(218, 0.34469253)];Lake of Rascino
+2263108;[(218, 0.319581)];Barton Creek Cave
+2267114;[(218, 0.25879306)];Caving in Tunisia
+2268257;[(218, 0.27658832)];Ben Lomond (Waikato)
+2275521;[(218, 0.27082208)];List of districts of North Sumatra
+2277283;[(218, 0.3148392)];Lake Shasta Caverns
+2285681;[(218, 0.3243799)];Bayano Caves
+2295792;[(218, 0.27832964)];Saeva dupka
+2296300;[(218, 0.36412454)];Aurangabad Caves
+2300918;[(218, 0.2939136)];Llygad Llwchwr
+2304025;[(218, 0.28623402)];Hang Sơn Đoòng
+2304032;[(218, 0.3352451)];Phong Nha Cave
+2312199;[(218, 0.40254)];Degurić Cave
+2315291;[(218, 0.3238909)];Boho Caves
+2319021;[(218, 0.25808528)];Tongue River Cave
+2324637;[(218, 0.2965658)];Cuevas del Drach
+2325856;[(218, 0.26798153)];Indian Echo Caverns
+2344863;[(218, 0.48324147)];Arctomys Cave
+2348010;[(218, 0.30517283)];Lava River Cave (Arizona)
+2362555;[(218, 0.33640912)];Yiyuan Rong Cave Group
+2374482;[(218, 0.27868766)];La Venta River
+2379484;[(218, 0.27223253)];Hendrie River
+2391626;[(218, 0.27903748)];Close to the Edge (cave)
+2395748;[(218, 0.30867207)];Lummelunda Cave
+2396283;[(218, 0.43965015)];Gosu Cave
+2397542;[(218, 0.29154354)];Shannon Cave
+2399597;[(218, 0.25729367)];Rushmore Cave
+2399864;[(218, 0.25629193)];Frasassi Caves
+2399915;[(218, 0.25550166)];Pertosa Caves
+2400042;[(218, 0.32793123)];Toirano Caves
+2400166;[(218, 0.32415834)];Pastena Caves
+2402238;[(218, 0.31172085)];Caves of the Tullybrack and Belmore hills
+2404115;[(218, 0.3812116)];High Cove
+2404168;[(218, 0.27477357)];Todo O Nada
+2404180;[(218, 0.2741294)];Así
+2407201;[(218, 0.2652369)];Arnold Lava Tube System
+2410148;[(218, 0.29840258)];Parque Nacional de las Cavernas del Río Camuy
+2416935;[(218, 0.26169655)];Hornito
+2421459;[(218, 0.3147348)];Willardia caicosensis
+2428666;[(218, 0.43723965)];Tunnel de la Atlantida
+2430590;[(218, 0.8137464)];Solutional cave
+2436502;[(218, 0.4067658)];Charterhouse Cave
+2441604;[(218, 0.26678127)];Devil's Cave (Pottenstein)
+2443846;[(218, 0.38724625)];Cloyne Cave
+2444276;[(218, 0.29107037)];La Mansonnière cave
+2453177;[(218, 0.3647224)];List of caves in Guatemala
+2455174;[(218, 0.32961926)];Candelaria Caves
+2465834;[(218, 0.29177988)];Logan Cave National Wildlife Refuge
+2469340;[(218, 0.28014815)];Subaerial eruption
+2471602;[(218, 0.426249)];List of caves in Serbia
+2474671;[(218, 0.26813745)];Baumann's Cave
+2474904;[(218, 0.3249673)];Hermann's Cave
+2475264;[(218, 0.40392795)];List of show caves in Germany
+2476498;[(218, 0.25493696)];Easter Cave
+2476904;[(218, 0.32019642)];Atta Cave
+2488088;[(218, 0.2765692)];Grotte Casteret
+2490466;[(218, 0.42416596)];Bythinella bouloti
+2490467;[(218, 0.32696438)];Bythinella galerae
+2494702;[(218, 0.3687104)];Pollnagollum
+2506005;[(218, 0.27465048)];Robber's Cave, India
+2515412;[(218, 0.3032154)];Sima Martel
+2515420;[(218, 0.3595182)];Sima Humboldt
+2519433;[(218, 0.2675947)];Suwannee Limestone
+2537955;[(218, 0.2538383)];Škocjan Caves
+2549637;[(218, 0.3027896)];Schistura kaysonei
+2550142;[(218, 0.2676565)];Grutas de García
+2555964;[(218, 0.32020292)];Caves in Devon
+2557165;[(218, 0.2867558)];Chudleigh Cavern
+2561903;[(218, 0.2673273)];Falemauga Caves
+2567668;[(218, 0.31886843)];Black Butte Crater Lava Field
+2574090;[(218, 0.25231707)];Blue Grotto (Biševo)
+2582501;[(218, 0.30322492)];Biserujka
+2582693;[(218, 0.46338245)];Krásnohorská Cave
+2583093;[(218, 0.37392792)];Bystrianska Cave
+2583602;[(218, 0.27428886)];Shafaq cave
+2612476;[(218, 0.44882625)];Coccopigya spinigera
+2613183;[(218, 0.25047404)];Fusiturricula maesae
+2617816;[(218, 0.2689752)];Phymorhynchus carinatus
+2617822;[(218, 0.2801449)];Phymorhynchus major
+2617849;[(218, 0.27056196)];Pleurotomella endeavourensis
+2620065;[(218, 0.25307664)];Blue Spring Cave
+2623549;[(218, 0.3244349)];Lepetodrilus ovalis
+2623551;[(218, 0.35183558)];Lepetodrilus schrolli
+2623745;[(218, 0.34190708)];Nakhcheer
+2624573;[(218, 0.60159314)];Ellis Basin cave system
+2626956;[(218, 0.2929075)];Grampian Speleological Group
+2627843;[(218, 0.292379)];Euthria amorimi
+2627844;[(218, 0.25871032)];Euthria bernardi
+2627851;[(218, 0.2527801)];Euthria marianae
+2628472;[(218, 0.27483436)];Colubraria obscura
+2629705;[(218, 0.27298117)];Calliotropis echidna
+2632847;[(218, 0.25665283)];Parviturbo rolani
+2633681;[(218, 0.31839293)];Lamellitrochus pourtalesi
+2633702;[(218, 0.29684576)];Suavotrochus lubricus
+2633706;[(218, 0.2736064)];Solariella multirestis
+2633731;[(218, 0.26988375)];Calliostoma barbouri
+2633736;[(218, 0.25750163)];Calliostoma bigelowi
+2634071;[(218, 0.29549032)];Falsimargarita benthicola
+2635402;[(218, 0.36161834)];Prunum cahuitaense
+2635949;[(218, 0.25006717)];Favartia varimutabilis
+2635974;[(218, 0.29200703)];Haustellum bondarevi
+2636009;[(218, 0.38760293)];Leptotrophon coriolis
+2636014;[(218, 0.3591288)];Leptotrophon lineorugosus
+2636201;[(218, 0.2785065)];Actinotrophon tenuis
+2636345;[(218, 0.28912657)];Vokesimurex woodringi
+2644659;[(218, 0.3784886)];Provanna admetoides
+2645261;[(218, 0.3940182)];List of longest caves
+2650265;[(218, 0.30360126)];Franconian Line
+2654480;[(218, 0.28524557)];Alaba incerta
+2654501;[(218, 0.3872931)];Cerithium atratum
+2654518;[(218, 0.3403515)];Cerithium muscarum
+2661980;[(218, 0.50971687)];Caves of Hotton
+2670161;[(218, 0.29413274)];Echinolittorina mespillum
+2670391;[(218, 0.28315157)];Excalibur Pot
+2671163;[(218, 0.25228992)];William Stumbels
+2678493;[(218, 0.25522882)];Notocochlis guesti
+2686995;[(218, 0.31005272)];Gap Cave
+2689845;[(218, 0.29491007)];Mammoth Cave (Utah)
+2696214;[(218, 0.31827152)];Cavern (disambiguation)
+2703188;[(218, 0.26780647)];Fairy Holes Cave
+2709484;[(218, 0.38416597)];Comondú
+2716230;[(218, 0.26376757)];Lugela Valley
+2719805;[(218, 0.32425514)];Caecum multicostatum
+2719920;[(218, 0.3570067)];Rissoina krebsii
+2719952;[(218, 0.37672082)];Schwartziella floridana
+2719999;[(218, 0.30146703)];Thaleia nisonis
+2722213;[(218, 0.295523)];Devil's Throat Cave
+2724731;[(218, 0.2962787)];Echinophoria coronadoi
+2724772;[(218, 0.35397837)];Macromphalina jibacoa
+2724784;[(218, 0.2964797)];Onchidiopsis glacialis
+2724787;[(218, 0.25359312)];Piliscus commodus
+2740180;[(218, 0.3366238)];List of French mountains by prominence
+2743513;[(218, 0.36201972)];Bluff Dweller's Cave
+2746590;[(218, 0.3628577)];Gruta das Mercês
+2746593;[(218, 0.268121)];Gruta das Cinco Ribeiras
+2746594;[(218, 0.28528637)];Gruta das Agulhas
+2748894;[(218, 0.26668015)];Black River Escarpment (Wisconsin)
+2751212;[(218, 0.30894354)];Madocite
+2756048;[(218, 0.30148137)];Skeleton Cave (Oregon)
+2764167;[(218, 0.3210571)];Gunung Sewu
+2765666;[(218, 0.2524674)];Cave of Altamira and Paleolithic Cave Art of Northern Spain
+2765795;[(218, 0.25360286)];Cave of Chufín
+2765802;[(218, 0.27741733)];Caves of Monte Castillo
+2767408;[(218, 0.30703434)];The Gloup
+2771127;[(218, 0.27068076)];Cueva del Viento
+2781782;[(218, 0.3379025)];Gargantua (cave)
+2786597;[(218, 0.27165577)];Corry Massif
+2791297;[(218, 0.2661099)];Mitchelstown Cave
+2791850;[(218, 0.3249952)];Turpie Rock
+2792418;[(218, 0.40744078)];Graham Passage
+2803025;[(218, 0.28306407)];Specimen Nunatak
+2808631;[(218, 0.40718415)];Yenesu Cave
+2810395;[(218, 0.39160448)];Wiri Lava Cave
+2839613;[(218, 0.2747845)];Grotte aux Fées (Switzerland)
+2840348;[(218, 0.25340107)];Long Mile Cave
+2842251;[(218, 0.35941502)];Swansea Cave
+2843425;[(218, 0.3185813)];Polar Caves Park
+2848124;[(218, 0.29015163)];Prohodna
+2854139;[(218, 0.2621028)];Areni-1 cave
+2864095;[(218, 0.30542946)];Idotea linearis
+2866229;[(218, 0.5807172)];Jiangzhou Cave System
+2866230;[(218, 0.2916273)];Shuanghedong Cave Network
+2866231;[(218, 0.35034874)];Tenglong Cave
+2868216;[(218, 0.33902466)];Huanglong Cave
+2869030;[(218, 0.25589517)];Luobi Cave
+2869137;[(218, 0.26337337)];List of caves in Canada
+2869155;[(218, 0.3846515)];List of caves in Brazil
+2869168;[(218, 0.5055767)];List of caves in Belgium
+2869193;[(218, 0.46030283)];List of caves in China
+2869296;[(218, 0.6057821)];Yilong Cave
+2872781;[(218, 0.34844038)];Speleogen
+2874826;[(218, 0.3603553)];Furong Cave
+2877023;[(218, 0.31868652)];Shuanglong Cave
+2877713;[(218, 0.38192716)];Binghu Cave
+2879272;[(218, 0.444503)];Suffosion
+2884725;[(218, 0.3757427)];Macaque Cave
+2890239;[(218, 0.3148721)];Chil-Ustun
+2892441;[(218, 0.2657)];Fuentemolinos cave
+2893193;[(218, 0.32312244)];Taiji Cave
+2897369;[(218, 0.27499947)];Odostomella doliolum
+2901757;[(218, 0.27962917)];Passages
+2901997;[(218, 0.29347718)];Orda, Perm Krai
+2902158;[(218, 0.2938143)];Ajydaar-Üngkür
+2902203;[(218, 0.26731053)];Töömoyun
+2906185;[(218, 0.2829258)];Martyn Farr
+2907596;[(218, 0.353975)];Nant Glais Caves
+2913239;[(218, 0.27289027)];Borgio Verezzi Caves
+2914073;[(218, 0.26734957)];Abîme
+2918514;[(218, 0.41277337)];List of mountains in Aragon
+2919804;[(218, 0.3422152)];Ghar Parau
+2924719;[(218, 0.25389266)];Yellow-headed goby
+2926698;[(218, 0.2603091)];Malacoctenus versicolor
+2936938;[(218, 0.39663783)];Syukeyevo Caves
+2938145;[(218, 0.29538187)];Friouato caves
+2938403;[(218, 0.38530338)];Tyning's Barrow Swallet
+2943927;[(218, 0.3490161)];Current River Cavern
+2944884;[(218, 0.26558602)];Plomb du Cantal
+2949512;[(218, 0.41615018)];Clarksville Cave
+2955172;[(218, 0.32647625)];Brito's goby
+2956733;[(218, 0.30142218)];Canelobre Cave
+2960678;[(218, 0.30335847)];Magharet Qasir Hafee
+2972478;[(218, 0.27259225)];Qingdao Jiaozhou Bay tunnel
+2974659;[(218, 0.3327507)];Thiên Đường Cave
+2980358;[(218, 0.27172527)];Gökgöl Cave
+2983452;[(218, 0.32976344)];Spannagel Cave
+2999791;[(218, 0.3562349)];Aggtelek Karst
+3003477;[(218, 0.28912333)];Merlin's Cave
+3006477;[(218, 0.38401997)];Cueva de Montesinos
+3006674;[(218, 0.26274505)];Sachsenwall
+3027328;[(218, 0.34626538)];Goochland Cave
+3032170;[(218, 0.2869802)];Cicurina vespera
+3034988;[(218, 0.33427978)];Chiquibul Cave System
+3048948;[(218, 0.50839156)];Räuberhöhle
+3048949;[(218, 0.35618156)];Robber's Cave
+3067001;[(218, 0.4274468)];Manjanggul
+3069107;[(218, 0.26581842)];Gimnyeonggul
+3074889;[(218, 0.57365465)];List of caves in Croatia
+3075575;[(218, 0.2527237)];Caverna da Tapagem
+3076413;[(218, 0.28647378)];Rhino Rift
+3080413;[(218, 0.33536887)];Cuckoo Rock to Turbot Point
+3081437;[(218, 0.26917216)];Ogof Llyn Parc
+3085573;[(218, 0.27533704)];Didogobius splechtnai
+3085581;[(218, 0.28970593)];Lesueur's goby
+3086845;[(218, 0.392542)];List of caves in Sri Lanka
+3088511;[(218, 0.309217)];Ogof Dydd Byraf
+3089655;[(218, 0.25067106)];Gruta do Padre
+3090076;[(218, 0.2803382)];New Guinea II cave
+3090742;[(218, 0.2589012)];Tarragal Caves
+3100203;[(218, 0.36425522)];List of mountains in Myanmar
+3102042;[(218, 0.33027518)];Toca da Barriguda
+3102107;[(218, 0.31306154)];Caverna Aroe Jari
+3102226;[(218, 0.38060424)];Gruta da Morena
+3102416;[(218, 0.25293463)];Lapa dos Brejões
+3102642;[(218, 0.29331085)];Gruta Olhos d'Água
+3126022;[(218, 0.26555708)];Cave of the Bells
+3126024;[(218, 0.34031895)];Onyx Cave (Arizona)
+3135986;[(218, 0.29710224)];Abyss Box
+3136530;[(218, 0.5024428)];Planina Cave
+3138687;[(218, 0.2607049)];Hell's Half Acre (Hot Springs, Arkansas)
+3140750;[(218, 0.25610813)];Verconia verconiforma
+3151645;[(218, 0.26449946)];Summit, Alabama
+3163615;[(218, 0.2926678)];Peik Chin Myaung Cave
+3166834;[(218, 0.46064216)];Cueva de Don Justo
+3168715;[(218, 0.27970368)];Grutas de Bustamante
+3169403;[(218, 0.34236223)];Helcogramma vulcana
+3178483;[(218, 0.28051883)];Palace Cave
+3181946;[(218, 0.5906195)];List of caves in Vietnam
+3191353;[(218, 0.2709878)];Cave of Valporquero
+3197348;[(218, 0.33790085)];Anadara baughmani
+3210607;[(218, 0.27342343)];Hook granite massif
+3221971;[(218, 0.31534314)];Mount Arthur (New Zealand)
+3222962;[(218, 0.49575934)];Pollatoomary
+3227488;[(218, 0.27019745)];Carronella pellucida
+3227576;[(218, 0.34885207)];Coryphella verta
+3237251;[(218, 0.35774675)];Tham Pha
+3237257;[(218, 0.29502702)];Tham Kong Lo
+3237623;[(218, 0.33058473)];Tham Sang Triangle
+3238180;[(218, 0.56187356)];Buddha cave
+3243106;[(218, 0.3991937)];Leviathan Cave
+3249173;[(218, 0.43022114)];Blowhole Cave
+3254122;[(218, 0.49007314)];Migovec System
+3260864;[(218, 0.27852237)];Cueva de los Murciélagos
+3262139;[(218, 0.29456046)];Dragon's Breath Cave
+3267443;[(218, 0.33708638)];Seneca Caverns (West Virginia)
+3270732;[(218, 0.2703237)];Slade Brook
+3273953;[(218, 0.31813794)];Chartist Cave
+3275144;[(218, 0.31664586)];Reservoir Hole
+3276193;[(218, 0.34617895)];Ryūsendō
+3279019;[(218, 0.66053116)];List of caves in Maharashtra
+3307145;[(218, 0.30284446)];Grossuana thracica
+3331108;[(218, 0.270591)];Marble Cave (Crimea)
+3331905;[(218, 0.42490572)];List of caves in Ireland
+3332739;[(218, 0.3340719)];Umachal rock cave
+3334669;[(218, 0.25131813)];Batheulima epixantha
+3341822;[(218, 0.2583766)];Devetashka cave
+3343339;[(218, 0.31409314)];Poca Roca Cave
+3348310;[(218, 0.41748232)];Bennett's Cave
+3348312;[(218, 0.25324523)];Cave S
+3348316;[(218, 0.26568788)];Goat's Hair Twin Caves
+3348319;[(218, 0.35391897)];Hyaena Cave
+3348321;[(218, 0.25661695)];New St. Michael's Cave
+3348322;[(218, 0.43783355)];Mammoth Cave (Gibraltar)
+3348326;[(218, 0.4720546)];List of caves in Gibraltar
+3359229;[(218, 0.37405902)];Bathyphytophilus caribaeus
+3359401;[(218, 0.30902535)];Eulima fulvocincta
+3367475;[(218, 0.3411292)];George's Bottom Cave
+3367476;[(218, 0.30351037)];Gibbon's Cave
+3367477;[(218, 0.38150662)];Leonora's Caves
+3367478;[(218, 0.25571096)];Levant Cave
+3367481;[(218, 0.39598694)];Painter's Cave
+3370725;[(218, 0.32725304)];Spider Cave (Gibraltar)
+3374582;[(218, 0.2767806)];Conch Bar Caves
+3378398;[(218, 0.40649733)];List of Bienes de Interés Cultural in the Province of Málaga
+3379670;[(218, 0.26131976)];Rock Dove Cave
+3390574;[(218, 0.29207483)];Melanella chariessa
+3397485;[(218, 0.27704588)];Xiaozhai Tiankeng
+3401742;[(218, 0.30512977)];Moelleriopsis poppei
+3407787;[(218, 0.31782705)];Freshwater Bay (Alaska)
+3409649;[(218, 0.30195072)];Nakimu Caves
+3411081;[(218, 0.29118586)];Weaver Cave
+3448686;[(218, 0.403623)];Karad Caves
+3448714;[(218, 0.31964266)];Kuda Caves
+3448719;[(218, 0.4020889)];Gandharpale Caves
+3456623;[(218, 0.34186688)];Kef Toghobeit
+3460599;[(218, 0.536845)];Cave of Pan
+3465224;[(218, 0.35355127)];Tufa (disambiguation)
+3469736;[(218, 0.3087156)];Tory Cave (Albany, New York)
+3469739;[(218, 0.32509848)];Toquima Cave
+3471443;[(218, 0.27737233)];Lombrives
+3483988;[(218, 0.30856726)];Tory's Cave (New Milford, Connecticut)
+3490861;[(218, 0.25698444)];Derrick Cave
+3492661;[(218, 0.33552977)];Metro Cave / Te Ananui Cave
+3495268;[(218, 0.29113325)];Halonen Cave
+3496963;[(218, 0.33926854)];Union Bay (Alaska)
+3497254;[(218, 0.2640591)];Hypogeum of Cala Sant Vicenç
+3497754;[(218, 0.34887832)];Orda Cave
+3505005;[(218, 0.44682944)];Er Wang Dong
+3521949;[(218, 0.4031298)];Búri (cave)
+3524736;[(218, 0.30470282)];Mahendra Cave
+3525478;[(218, 0.512597)];Grønligrotta
+3525489;[(218, 0.47281423)];Setergrotta
+3531896;[(218, 0.329693)];Olentangy Indian Caverns
+3536129;[(218, 0.25250697)];Junagadh Buddhist Cave Groups
+3537052;[(218, 0.2621344)];Manitou Passage
+3539217;[(218, 0.29434627)];Hathiagor Buddhist Caves
+3539218;[(218, 0.27545652)];Kolvi Caves
+3539755;[(218, 0.29942396)];Dhamnar Caves
+3540021;[(218, 0.31243885)];Kadia Dungar Caves
+3540022;[(218, 0.25807446)];Talaja Caves
+3542660;[(218, 0.30099443)];Sandy Glacier Caves
+3553541;[(218, 0.47242486)];Haitón del Guarataro
+3554479;[(218, 0.26492187)];Airmen's Cave
+3556373;[(218, 0.339531)];Abida polyodon
+3556861;[(218, 0.2995542)];Warsaw Caves
+3561014;[(218, 0.27277258)];Miss Grace's Lane
+3586461;[(218, 0.40573674)];San Wang Dong
+3589827;[(218, 0.2527198)];Siddha cave
+3592275;[(218, 0.28710902)];Wildenmannlisloch
+3602198;[(218, 0.35668948)];Vorontsovka Caves
+3604130;[(218, 0.3053755)];Nesbitt's Limestone Quarry (38CK69)
+3608674;[(218, 0.25408778)];Akhayat sinkhole
+3614255;[(218, 0.3705045)];Lamprechtsofen
+3620532;[(218, 0.30187443)];Akkadō
+3623095;[(218, 0.31091648)];Baradla cave
+3632226;[(218, 0.3812801)];Pindul Cave
+3637720;[(218, 0.54670477)];List of deepest caves
+3646983;[(218, 0.5631708)];Sarma cave
+3649627;[(218, 0.31059647)];Cherney Maribel Caves County Park
+3659924;[(218, 0.4043367)];Lokale
+3663377;[(218, 0.2598665)];Harrodsburg Limestone
+3664163;[(218, 0.25700718)];Pumawasi, Anta
+3667451;[(218, 0.25747582)];Salt Mountain Limestone
+3668494;[(218, 0.35693687)];Kurgazak cave
+3672614;[(218, 0.40053025)];NR-1 Sinkhole
+3673144;[(218, 0.3041902)];Escabrosa Limestone
+3675979;[(218, 0.25339735)];Marinova dolostone quarry
+3676777;[(218, 0.30637544)];Biospeleology
+3676999;[(218, 0.32665807)];Quatsino Limestone
+3680880;[(218, 0.41262066)];Castle Rock, Clatsop County, Oregon
+3684063;[(218, 0.30534843)];Weißjura Formation
+3685372;[(218, 0.32964706)];Miao Room
+3697111;[(218, 0.26161218)];Bava Pyara Caves
+3711258;[(218, 0.33953893)];Gilindire Cave
+3711953;[(218, 0.60102534)];İnkaya Cave
+3712682;[(218, 0.34042838)];Tilkiler Cave
+3715353;[(218, 0.2693598)];Tuckaleechee Caverns
+3725910;[(218, 0.39956486)];Clearwater Cave System
+3726722;[(218, 0.26555407)];Zalat Taung
+3727458;[(218, 0.349873)];Grottes de Presque
+3729029;[(218, 0.29992664)];Doto rosacea
+3732704;[(218, 0.3979798)];Pozzo del Merro
+3736438;[(218, 0.29268223)];Castell Mawr Rock
+3737502;[(218, 0.29504508)];Cinnamodendron angustifolium
+3741922;[(218, 0.31511074)];Lazareva Pećina
+3754301;[(218, 0.3121229)];Gourgouthakas
+3770787;[(218, 0.3009261)];Boulder choke
+3778493;[(218, 0.29623106)];Baredine Cave
+3805288;[(218, 0.4035371)];Alutila Cave
+3806073;[(218, 0.358835)];Skirwith Cave
+3807902;[(218, 0.36111724)];Tenellia fidenciae
+3876806;[(218, 0.410941)];Siju Cave
+3878562;[(218, 0.26477146)];Damlataş Cave
+3886544;[(218, 0.2798728)];Dupnisa Cave
+3888245;[(218, 0.27075705)];Oylat Cave
+3890308;[(218, 0.2841877)];Semicassis saburon
+3897977;[(218, 0.43603736)];Dhal Al Misfir
+3901989;[(218, 0.39613664)];Dharashiv Caves
+3904302;[(218, 0.26791912)];Boxhead Pot
+3904998;[(218, 0.26981327)];Long Drop Cave
+3905394;[(218, 0.2568108)];Kletno Bear Cave
+3907423;[(218, 0.34780797)];Caves of Meghalaya
+3917387;[(218, 0.31963283)];Arkaliospilio
+3917504;[(218, 0.4935674)];List of caves in Tanzania
+3923395;[(218, 0.27600852)];Keratophyre
+3929419;[(218, 0.31904846)];Killa Mach'ay
+3939532;[(218, 0.2655911)];Plakortis dariae
+3941307;[(218, 0.36363125)];Aven des Corneilles
+3947072;[(218, 0.37438202)];Subterranean waterfall
+3950813;[(218, 0.30122983)];Saint-Leonard Cavern
+3951780;[(218, 0.30033413)];List of mountains in Spain
+3953776;[(218, 0.27112094)];Marsoulas Cave
+3971113;[(218, 0.32684004)];Tory's Cave (Springfield, Vermont)
+3981359;[(218, 0.25321996)];Adiangao Cave
+3983898;[(218, 0.28927213)];Ngārua Caves
+4002237;[(218, 0.2685638)];Erythraeus passidonicus
+4004897;[(218, 0.35808232)];Lipa Cave
+4005169;[(218, 0.3011311)];Emarcusia morroensis
+4017302;[(218, 0.38333902)];Telema tenella
+4021235;[(218, 0.3299982)];Amatérská Cave
+4021321;[(218, 0.27447397)];Indiana Caverns
+4021893;[(218, 0.3718123)];Al Hoota Cave
+4024170;[(218, 0.31381986)];Akrav israchanani
+4026584;[(218, 0.2734697)];Hang Én
+4030062;[(218, 0.32665688)];St Michaels Cave (Avalon Beach)
+4032831;[(218, 0.2602697)];Bull Shoals Caverns
+4037958;[(218, 0.3496856)];Anurida stereoodorata
+4037961;[(218, 0.30426854)];Deuteraphorura kruberaensis
+4038494;[(218, 0.39806852)];Anou Boussouil
+4039291;[(218, 0.6073621)];Exit Cave, Tasmania
+4039296;[(218, 0.31646162)];Niggly Cave, Tasmania
+4047244;[(218, 0.31296238)];Ruakuri Cave
+4071418;[(218, 0.32456023)];Sutton stone
+4075785;[(218, 0.3182039)];Sistema Huautla
+4077135;[(218, 0.31454822)];Cefn Caves
+4079295;[(218, 0.27119014)];Altınbeşik Cave National Park
+4086605;[(218, 0.40104017)];List of caves within the Jenolan Caves karst
+4113505;[(218, 0.28194088)];List of sinkholes
+4118686;[(218, 0.25046182)];List of Archaeological Protected Monuments in Kegalle District
+4119348;[(218, 0.3009421)];Gardner Cave
+4121160;[(218, 0.25126767)];Oaxaca cave sleeper
+4129263;[(218, 0.33074751)];Aforia hedleyi
+4130893;[(218, 0.25488764)];Caves of Don Gaspar
+4148824;[(218, 0.31572357)];South Patagonian Batholith
+4158889;[(218, 0.33914676)];Mount Paraw
+4163027;[(218, 0.28298587)];Uruguayan dyke swarms
+4165579;[(218, 0.29051965)];Mount Rowan
+4169422;[(218, 0.2854658)];Satakunta dyke swarms
+4177067;[(218, 0.3300836)];Tú Làn Caves System
+4181555;[(218, 0.3396035)];Eyyal burial cave
+4186922;[(218, 0.38713866)];São Vicente Caves
+4189454;[(218, 0.28513896)];Jiguan Cave
+4194820;[(218, 0.25558928)];Doris kyolis
+4203389;[(218, 0.27832654)];Emerald Cave (Thailand)
+4210336;[(218, 0.3141753)];Littoral cone
+4222013;[(218, 0.41360652)];Tears of the Turtle Cave
+4229592;[(218, 0.28657582)];Engelbrecht Cave
+4243313;[(218, 0.25471726)];Epitonium novangliae
+4243372;[(218, 0.30678192)];Kocain Cave
+4245879;[(218, 0.34033844)];Zeytintaşı Cave
+4256686;[(218, 0.27734196)];Onyx Cave (Newburg, Missouri)
+4257384;[(218, 0.2635839)];Tham Phra Wang Daeng
+4257392;[(218, 0.47932658)];Tham Mae Lana
+4257440;[(218, 0.3434228)];Paradise Lost Caves
+4257459;[(218, 0.33012208)];Diu Diu Cave
+4257748;[(218, 0.46429366)];Cavernas de Repechón
+4258105;[(218, 0.44338763)];Anatakitaki Cave
+4266252;[(218, 0.36858422)];Torca del Carlista
+4267523;[(218, 0.29943666)];Wimsener Höhle
+4289713;[(218, 0.28579566)];Five Temple Caves
+4290008;[(218, 0.35359922)];Eastern Thousand Buddha Caves
+4294651;[(218, 0.39197487)];Cranford St John SSSI
+4298230;[(218, 0.26446417)];Krka Cave
+4310068;[(218, 0.28764752)];Cerje Cave
+4317549;[(218, 0.27084064)];Round Hill Pit, Aldeburgh
+4319321;[(218, 0.33837345)];Diamond Caverns
+4322206;[(218, 0.42818195)];İncirliin Cave
+4333490;[(218, 0.41426715)];Conestoga Formation
+4335540;[(218, 0.40283883)];Dark Star (cave)
+4339133;[(218, 0.30831423)];Pınargözü Cave
+4343282;[(218, 0.3354876)];Horringer Court Caves
+4344225;[(218, 0.25354856)];Caves and Ice Age Art in the Swabian Jura
+4344382;[(218, 0.39256057)];Atlantida (cave)
+4350078;[(218, 0.45098674)];Krem Synrang Pamiang
+4350791;[(218, 0.28839752)];Hascot Hill Pit
+4351646;[(218, 0.34026667)];Grotta Regina del Carso
+4358560;[(218, 0.25370517)];Karst lake
+4360146;[(218, 0.29210103)];Caulerpa vesiculifera
+4367313;[(218, 0.40145692)];Cycas tansachana
+4372422;[(218, 0.36792007)];Platymantis quezoni
+4375355;[(218, 0.35812798)];Marble Arch (disambiguation)
+4380280;[(218, 0.34447426)];Salavat Yulayev Cave
+4394487;[(218, 0.25848958)];Schellenberg Ice Cave
+4397880;[(218, 0.3107421)];Daipotamon minos
+4401879;[(218, 0.29120454)];Abisso di Malga Fossetta
+4405245;[(218, 0.29896224)];Kogelbeen Cave
+4417380;[(218, 0.25950375)];Gunung Sewu Geopark
+4423249;[(218, 0.25560468)];One Barrow Plantation
+4426197;[(218, 0.29268736)];Boyd Cave
+4426393;[(218, 0.3105657)];Skylight Cave
+4452271;[(218, 0.25743756)];Kai Caves
+4460910;[(218, 0.2795997)];Kinderle Cave
+4479732;[(218, 0.25343633)];Saltpeter Cave
+4482145;[(218, 0.26344374)];Fugaku Wind Cave
+4484243;[(218, 0.31098667)];Veryovkina Cave
+4484623;[(218, 0.31414583)];Narusawa Ice Cave
+4499324;[(218, 0.2729199)];Balayan Bay
+4501635;[(218, 0.27361965)];Raufarhólshellir
+4504829;[(218, 0.2608876)];Cap-Vert (volcano)
+4507199;[(218, 0.30408686)];Kozarnika, Botevgrad Municipality
+4511571;[(218, 0.2510661)];Carinodrillia dariena
+4518238;[(218, 0.36751172)];East Runton Cliffs
+4528919;[(218, 0.33868244)];Sitamarhi Cave
+4531244;[(218, 0.2812511)];Echo Caves
+4531588;[(218, 0.57446283)];Langun-Gobingob Cave System
+4533308;[(218, 0.63531566)];Tham Luang (disambiguation)
+4533423;[(218, 0.42868477)];Scurati Caves
+4537820;[(218, 0.30157188)];List of karst polje in Bosnia and Herzegovina
+4538428;[(218, 0.5426473)];Gypsum cave
+4542499;[(218, 0.39823803)];List of longest caves in the United States
+4550826;[(218, 0.26079416)];Angara-Vitim batholith
+4557732;[(218, 0.28704262)];List of caves in Bosnia and Herzegovina
+4557736;[(218, 0.26403096)];Mokranjska Miljacka wellspring cave
+4558119;[(218, 0.25365075)];Khed Caves
+4562835;[(218, 0.31112036)];Ambivali Caves
+4563531;[(218, 0.35980323)];Pohale Caves
+4563543;[(218, 0.30353776)];Yerphal Caves
+4567134;[(218, 0.35358614)];Lowo Cave
+4568592;[(218, 0.26777586)];Bellerberg Volcano
+4572497;[(218, 0.3092482)];Zodi (village)
+4572784;[(218, 0.31306043)];Khapra Kodiya Caves
+4579043;[(218, 0.35868168)];List of caves in Missouri
+4582793;[(218, 0.32445505)];Harpea's Cave
+4585363;[(218, 0.27050835)];Éhein
+4587145;[(218, 0.40224236)];Oniore Waterfall and Toba First Cave Natural Monuments
+4587322;[(218, 0.38016382)];Geology of Christmas Island
+4590957;[(218, 0.28081262)];Prometheus Cave Natural Monument
+4591016;[(218, 0.3071175)];Geology of Saba
+4602442;[(218, 0.26383948)];Wells Gray Park Cave discovery
+4603355;[(218, 0.35128793)];Bullita Cave
+4615507;[(218, 0.25086376)];Swinsto Cave
+4626179;[(218, 0.27034137)];Kitley Show Cave
+4627721;[(218, 0.38768417)];Pseudanophthalmus packardi
+4631826;[(218, 0.31193522)];David A. Hubbard, Jr
+4642010;[(218, 0.5589985)];Çukurpınar Cave
+4654305;[(218, 0.2828154)];Massif (disambiguation)
+4666862;[(218, 0.3301975)];Tower karst
+4668532;[(218, 0.44309238)];Malcham cave
+4683665;[(218, 0.5283059)];Niagara Cave
+4684951;[(218, 0.2708391)];Michał Marek
+4704253;[(218, 0.2904958)];Río Secreto
+4705480;[(218, 0.29985523)];Mesa Prieta
+4715435;[(218, 0.27675638)];Ana Kai Tangata
+4718588;[(218, 0.28792512)];Neopleurotomoides aembe
+4723793;[(218, 0.25302097)];Pixie's Hole
+4753656;[(218, 0.2797964)];Orlovača Cave
+4758491;[(218, 0.25404748)];Plagigeyeria tribunicae
+4768257;[(218, 0.25380838)];Fern Cave Archeological Site
+4779997;[(218, 0.4259381)];Patan caves
+4799760;[(218, 0.2527916)];Tham Pha Ka
+4800784;[(218, 0.28970852)];Grotta del Gelo
+4805409;[(218, 0.35153452)];Didghele Cave Natural Monument
+4805523;[(218, 0.31900313)];Bgheri Cave Natural Monument
+4813999;[(218, 0.5952813)];Dağlı Kuylucu Cave
+4815186;[(218, 0.29126406)];Solkota Cave Natural Monument
+4815495;[(218, 0.3809578)];Navenakhevi Cave Natural Monument
+4815577;[(218, 0.32341665)];Nazodelavo Cave Natural Monument
+4815650;[(218, 0.52286893)];Melouri Cave Natural Monument
+4816740;[(218, 0.31114542)];Barsukovskaya Cave
+4817102;[(218, 0.30986267)];Jortsku Cave Natural Monument
+4817514;[(218, 0.28505528)];Iazoni Cave Natural Monument
+4817581;[(218, 0.37534198)];Ghliana Cave Natural Monument
+4818076;[(218, 0.3339802)];Khomuli Cave Natural Monument
+4818524;[(218, 0.46469405)];Motena Cave Natural Monument
+4818627;[(218, 0.26812637)];Toba Waterfall and Arsen Okrojanashvili Cave Natural Monument
+4819000;[(218, 0.352579)];Nagarevi Cave Natural Monument
+4820958;[(218, 0.36147588)];Sangtarashan cave
+4825833;[(218, 0.37969407)];List of caves of Estonia
+4838940;[(218, 0.25110713)];Horsehay Quarries
+4839119;[(218, 0.37981617)];Lyehill Quarry
+4845672;[(218, 0.310756)];The Caverns at Natural Bridge
+4847949;[(218, 0.35848317)];Gouffre Mirolda
+4848949;[(218, 0.324677)];Dabar Cave
+4854469;[(218, 0.25306407)];Banja Stijena
+4858407;[(218, 0.25528327)];Bos Swallet
+4858809;[(218, 0.35602754)];East Twin Swallet
+4879223;[(218, 0.3149161)];List of karst plateaus in Bosnia and Herzegovina
+4882019;[(218, 0.28553313)];Ghar Some
+4884021;[(218, 0.34617442)];Ein Heet Cave
+4894741;[(218, 0.31724483)];Furnas do Cavalum
+4895796;[(218, 0.3889663)];Bat Cave, Nepal
+4896080;[(218, 0.5147268)];Gupteshwor Mahadev Cave
+4908271;[(218, 0.3535888)];Bandera Volcano Ice Cave
+4912160;[(218, 0.3535598)];Vijasan Caves
+4921959;[(218, 0.26774272)];Sculptor's Cave
+4931797;[(218, 0.38745773)];List of caves in Azerbaijan
+4933004;[(218, 0.32105228)];Bear's Cave (Erpfingen)
+4938049;[(218, 0.27605444)];Vranjača Cave
+4941887;[(218, 0.3520335)];Andirilena Cave
+4947381;[(218, 0.28918335)];Sita cave
+4952647;[(218, 0.3285822)];List of caves in Derbyshire
+4961993;[(218, 0.48424232)];Kizilgaha caves
+4962430;[(218, 0.27458915)];Eastern Passage (disambiguation)
+4969766;[(218, 0.33233356)];Chitrella regina
+4969807;[(218, 0.5097987)];Čehi 2 cave
+4978122;[(218, 0.3217666)];Simsim caves
+4990518;[(218, 0.42493162)];Kaumana Cave
+4999915;[(218, 0.2769062)];Dhaymoole
+5001943;[(218, 0.30150068)];Abanda Caves
+5006753;[(218, 0.28063905)];List of caves in Iran
+5016866;[(218, 0.28748366)];List of caves in Pakistan
+5017004;[(218, 0.2850476)];Middle Passage (disambiguation)
+5028895;[(218, 0.37719065)];Fengyu Cave
+5035808;[(218, 0.3521031)];Doris pickensi
+5044634;[(218, 0.28819552)];Yamatari Glacier
+5049168;[(218, 0.41553664)];List of lava tubes
+5051527;[(218, 0.26835474)];Bathory Cave
+5054086;[(218, 0.28074646)];Piwniczka
+5069215;[(218, 0.3212308)];Burträsk Fault
+5083713;[(218, 0.26718512)];Primulina halongensis
+5093339;[(218, 0.33770844)];Sanxian Cave
+5093683;[(218, 0.25633255)];Alu Ancient Cave
+5093853;[(218, 0.45142654)];Zhongfeng Cave
+5094271;[(218, 0.6022776)];Lingxiao Rock
+5094694;[(218, 0.49746868)];Ryūga Cave
+5097058;[(218, 0.40305412)];List of caves in Jamaica
+5098840;[(218, 0.4231068)];Anjanamba cave
+5098874;[(218, 0.43770483)];Marosakabe cave system
+5105177;[(218, 0.28766745)];Kaklık Cave
+5105382;[(218, 0.30462134)];Tabon
+5112490;[(218, 0.26001853)];Myripristis hexagona
+5121805;[(218, 0.5730046)];Friars Hole Cave System
+5125212;[(218, 0.30743292)];Calypso's Cave
+5129552;[(218, 0.29208085)];Radochów Cave
+5131885;[(218, 0.3584922)];Devil's Icebox (cave)
+5132891;[(218, 0.343155)];Crevice Cave
+5156387;[(218, 0.3076764)];Grylloblatta siskiyouensis
+5158701;[(218, 0.34535018)];Aguas Buenas Cave System
+5166736;[(218, 0.34020525)];Ghar il-Kbir
+5187098;[(218, 0.27962166)];Utroba Cave
+5187648;[(218, 0.25050232)];Malaverd
+5189289;[(218, 0.28717208)];Tantanoola Caves Conservation Park
+5200588;[(218, 0.28388718)];Denault Formation
+5203169;[(218, 0.3339089)];Plumatyla humerosa
+5212531;[(218, 0.2503744)];Fox Cave, Shmankivtsi
+5213733;[(218, 0.45444262)];Cave of Luolavuori
+5219284;[(218, 0.2515847)];Piper's Hole
